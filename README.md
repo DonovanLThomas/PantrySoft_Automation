@@ -42,8 +42,8 @@ PASSWORD=your_password_here
 
 Provide a `Student_IDS.txt` file (one ID per line), e.g.:
 ```
-abc123
-bxy789
+9928910
+1234567
 ...
 ```
 
